@@ -1,0 +1,28 @@
+{
+  "name": "Light sensor TSL2561 (fork of SparkFun)",
+  "keywords": "sensor, lux, light",
+  "description": "Modified library of the SparkFun TSL2561 (created by Mike Grusin@SparkFun Electronics). This fork fixes broken interrupt functionality and adds possibility to define i2c pins in begin(sda, scl) ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ioants/SparkFun_TSL2561_Arduino_Library"
+  },
+  "authors":
+  [
+    {
+      "name": "Adam Saxén",
+      "email": "adam.saxen@gmail.com",
+      "url": "http://www.codeterrific.com",
+      "maintainer": true
+    },
+    {
+      "name": "Mike Grusin@SparkFun Electronics (origin)",
+      "email": "techsupport@sparkfun.com",
+      "url": "http://www.milesburton.com"
+    },
+
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
