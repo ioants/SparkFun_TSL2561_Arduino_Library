@@ -19,8 +19,7 @@
       "name": "Mike Grusin@SparkFun Electronics (original creator)",
       "email": "techsupport@sparkfun.com",
       "url": "http://www.milesburton.com"
-    },
-
+    }
   ],
   "version": "1.0.0",
   "frameworks": "arduino",
